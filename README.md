@@ -1,6 +1,7 @@
 # HR-Analytics-Dashboard
 This HR Analytics Dashboard provides a complete view of employee distribution, attrition trends, income analysis, and workforce demographics. It helps HR teams make data-driven decisions, identify potential retention issues, and understand workforce structure across different dimensions such as job role, age, gender, education, and department.
 ### Dashboard
+<img width="931" height="498" alt="Image" src="https://github.com/user-attachments/assets/3944e340-5b97-4f55-b4b4-3938b03c33c0" />
 
 ### Dashboard Overview
 The dashboard analyzes key HR metrics, showing:
